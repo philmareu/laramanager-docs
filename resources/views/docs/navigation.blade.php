@@ -1,7 +1,7 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
     <ul class="uk-nav uk-nav-default">
-        <li class="uk-nav-header">Introduction</li>
-        <li><a href="#">About Laramanager</a></li>
+        <li class="uk-nav-header">Getting Started</li>
+        <li><a href="#">Welcome</a></li>
         <li><a href="#">Installation</a></li>
         <li class="uk-nav-divider"></li>
         <li class="uk-nav-header">Admin Panel</li>

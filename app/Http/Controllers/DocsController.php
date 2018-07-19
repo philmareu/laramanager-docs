@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class DocsController extends Controller
 {
-    public function index($page = 'introduction')
+    public function index($page = 'welcome')
     {
         return view('docs.index')->with('page', $page);
     }
