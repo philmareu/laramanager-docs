@@ -1,3 +1,3 @@
 <?php
 
-//Route::view('home/index');
+Route::view('/', 'home.index');
