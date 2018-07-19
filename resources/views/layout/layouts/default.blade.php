@@ -1,7 +1,9 @@
 @extends('laramanager::layouts.sub.default')
 
 @section('content')
-    @include('layout.navigation.primary')
+    <div class="uk-margin">
+        @include('layout.navigation.primary')
+    </div>
 
     @yield('default-content')
 @endsection

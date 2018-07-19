@@ -1,4 +1,3 @@
 ## About Laramanager
 
-* First
-* Second
+Laramanager is a simple admin tool for Laravel applications.
