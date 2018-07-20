@@ -15,5 +15,5 @@
     <li><a href="{{ url('docs/navigation') }}">Navigation</a></li>
     <li class="uk-nav-divider"></li>
     <li class="uk-nav-header">Supported Extensions</li>
-    <li><a href="#">Laramanager Blog</a></li>
+    <li><a href="{{ url('docs/laramanager-blog') }}">Laramanager Blog</a></li>
 </ul>

@@ -1,0 +1,3 @@
+# Redirects
+
+Add a redirect.
