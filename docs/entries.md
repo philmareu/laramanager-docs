@@ -1,8 +1,8 @@
-## Entries
+# Entries
 
 Entries represent a row of data in a resource's table.
 
-### Create entry
+## Create entry
 
 Select the resource under the "Resources" navigation section.
 

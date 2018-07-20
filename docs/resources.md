@@ -1,8 +1,8 @@
-## Resources
+# Resources
 
 Resources are tables that need simple CRUD operations.
 
-### Creating a new resource
+## Creating a new resource
 
 Laramanager will not automatically create migrations or alter your database schema. It was built to be very lightweight and flexible to the developer. So first a model and migration will need to be created for the resource before it can be added in Laramanager.
 

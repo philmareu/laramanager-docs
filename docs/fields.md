@@ -1,4 +1,4 @@
-## Fields
+# Fields
 
 Fields can be added to [resources](/docs/resources) and represent how a resource's table column should be populated. These fields provide a way to populate the resource's database columns with data. So make sure the columns are added to the migration and migrated before adding fields in Laramanager.
 

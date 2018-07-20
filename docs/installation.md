@@ -1,10 +1,10 @@
-## Installation
+# Installation
 
-### Requirement
+## Requirement
 
 Laramanager requires Laravel 5.5 or greater. It also uses `/admin` so if your application is currently using this uri there could be conflicts.
 
-### Install Laramanager
+## Install Laramanager
 
 Installing Laramanager is a breeze. First, grab the package.
 
