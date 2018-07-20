@@ -26,6 +26,6 @@ php artisan migrate
 
 Finally, visit `/admin` in your project and add your initial admin user.
 
-![LaraManager Screenshot](https://philmareu.com/images/original/wtamrreKe0arLIvMcp646KHCX6oCEjJTszI9o98TmQemwZe9WO8gAPak0EnRQPyyYqTxJRM1K3QoKGJp5AKXbgFp3QmKtpaP4H9E.jpg)
+![LaraManager Install Screen](/images/original/ZIxTCTFXbYnuxnniOLFLJIeXbRSHVY8qhILXUOfQS7j6mIAcd53R97SqamLuUp4tKH4oZXWNsf61dXJntyWYVsLonjFzLgVqCyAg.png)
 
 Done.
