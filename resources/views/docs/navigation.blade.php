@@ -6,6 +6,8 @@
     <li class="uk-nav-header">Admin Panel</li>
     <li><a href="{{ url('docs/resources') }}">Resources</a></li>
     <li><a href="{{ url('docs/fields') }}">Fields</a></li>
+    <li><a href="{{ url('docs/entries') }}">Entries</a></li>
+    <li><a href="{{ url('docs/field-types') }}">Field Types</a></li>
     <li><a href="{{ url('docs/images') }}">Images</a></li>
     <li><a href="{{ url('docs/objects') }}">Objects</a></li>
     <li><a href="{{ url('docs/feeds') }}">Feeds</a></li>
