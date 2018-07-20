@@ -11,8 +11,12 @@ window.Popper = require('popper.js').default;
 try {
     window.$ = window.jQuery = require('jquery');
 
-    require('bootstrap');
+    window.UIkit = require('uikit');
 } catch (e) {}
+
+import Icons from 'uikit/dist/js/uikit-icons';
+
+UIkit.use(Icons);
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
