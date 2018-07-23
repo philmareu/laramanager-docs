@@ -2,7 +2,7 @@
 
 ## Requirement
 
-Laramanager requires Laravel 5.5 or greater. It also uses `/admin` so if your application is currently using this uri there could be conflicts.
+Laramanager requires Laravel 5.5 to 5.6.27 (Currently an issue with the Laravel 5.6.28 update). It also uses `/admin` so if your application is currently using this uri there could be conflicts.
 
 ## Install Laramanager
 
