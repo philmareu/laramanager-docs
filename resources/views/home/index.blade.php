@@ -88,12 +88,4 @@
             </div>
         </div>
     </section>
-
-    <section class="uk-section">
-        <div class="uk-container">
-            <h2 class="uk-text-center uk-margin-large">A few projects using Laramanager</h2>
-
-            
-        </div>
-    </section>
 @endsection
