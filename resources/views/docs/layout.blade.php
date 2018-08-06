@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="uk-width-4-5@m">
-            <div class="uk-padding-small">
+            <div class="uk-container-small">
                 @yield('docs-content')
             </div>
         </div>
