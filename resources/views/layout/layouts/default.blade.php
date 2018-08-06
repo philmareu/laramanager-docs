@@ -7,3 +7,7 @@
 
     @yield('default-content')
 @endsection
+
+@push('scripts-last')
+    <script>hljs.initHighlightingOnLoad();</script>
+@endpush
